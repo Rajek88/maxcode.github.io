@@ -1,0 +1,7 @@
+
+         1. This App is Developed by Rajendra Kulkarni referred as "Creator". All Visual Assets are property of and belongs to Creator. The credit for the libraries used while building this app goes to their original creators. Thanks to them for creating such great libraries.
+         2. This App does not collect any user information , The data collected from camera during operation is automatically cleared after use by the system and is not stored or transferred.
+         3. The Ads shown in this app are provided by Google Ads as it is and Creator is not responsible for the Ads and its Content.
+         4. This App is free to use and provided with no guaranty / warranty.
+        
+         Thank You !
