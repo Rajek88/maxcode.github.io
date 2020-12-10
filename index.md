@@ -1,7 +1,4 @@
 
-<html>
-
-<body>
 
 <h1>Privacy Policy</h1>
 <p><br> 1. This App is Developed by Rajendra Kulkarni referred as "Creator". All Visual Assets are property of and belongs to Creator. The credit for the libraries used while building this app goes to their original creators. Thanks to them for creating such great libraries.
@@ -11,5 +8,3 @@
         
        Thank You !
 
-</body>
-</html>
