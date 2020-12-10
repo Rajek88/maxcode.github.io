@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>MaxCode Scanner</title>
-</head>
+
 <body>
 
 <h1>Privacy Policy</h1>
@@ -11,7 +9,7 @@
       <br>   3. The Ads shown in this app are provided by Google Ads as it is and Creator is not responsible for the Ads and its Content.
        <br>  4. This App is free to use and provided with no guaranty / warranty.
         
-       <br>  Thank You !</p>
+       Thank You !
 
 </body>
 </html>
